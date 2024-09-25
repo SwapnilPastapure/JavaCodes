@@ -90,7 +90,7 @@ public class ArrayListPractice2 {
         System.out.println();
 
 
-        studentList.remove(0);  // Removing Liam from the list
+        studentList.remove(0);  
         System.out.println("After removing student at index 0: " + studentList);
 
         System.out.println("Final size of the student list: " + studentList.size());
